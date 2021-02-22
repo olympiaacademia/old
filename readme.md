@@ -1,5 +1,5 @@
 # Olympia Academia
-This is the official repo of OLD Olympia Academia's website acting as a GitHub site.
+This is the official repo of OLD Olympia Academia's website.
 
 The Olympia Academia is the Aligarh Muslim University Science Society, founded in 2019. Our purpose is to promote enjoyment and understanding of mathematics, physics, statistics and computer science for all students, and provide opportunities for cooperation and social activities.
 
